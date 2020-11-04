@@ -1,5 +1,9 @@
 public class HelloWorld {
+
    public static void main(String[] args) {
-      System.out.println("Nico Liedmeyer");
+
+      System.out.println("Hello, World");
+      System.out.println("22.10.1995");
+
    }
 }
